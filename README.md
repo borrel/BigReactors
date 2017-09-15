@@ -1,5 +1,6 @@
 BigReactors
 ===========
+[![Build Status](https://travis-ci.org/borrel/BigReactors.svg?branch=master)](https://travis-ci.org/borrel/BigReactors)
 
 What is this?
 -------------
